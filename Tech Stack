@@ -1,0 +1,8 @@
+Frontend: React, TypeScript, Redux Toolkit
+Frontend libraries: Tailwind CSS, React Router DOM, plotly.js
+
+Backend: Node.js, Express
+Database: MongoDB, mongoose
+Authentication / Encryption : JWT (bcryptjs, jsonwebtoken, cookie-parser), OAuth
+
+Machine Learning Model Backend: Flask
