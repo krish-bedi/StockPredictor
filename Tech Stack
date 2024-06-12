@@ -1,5 +1,5 @@
 Frontend: React, TypeScript, Redux Toolkit
-Frontend libraries: Tailwind CSS, React Router DOM, plotly.js
+Frontend libraries: Tailwind CSS, React Router DOM, d3.js
 
 Backend: Node.js, Express
 Database: MongoDB, mongoose
